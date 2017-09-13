@@ -45,7 +45,7 @@ export class AppComponent {
         this.messages = null;
         this.clearValues();
       } else {
-        this.messages = 'Errors have been encountered and therefore cant';
+        this.messages = 'Errors have been encountered and therefore cant Add';
         return false;
       }
   }
